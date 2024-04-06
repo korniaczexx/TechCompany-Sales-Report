@@ -13,7 +13,7 @@ Dashboard sprzedażowy CRM fikcyjnej firmy zajmującej się sprzedażą oprogram
 
 ## Dane i Metryki
 
-Dashboard korzysta z różnorodnych źródeł danych, w tym z tabel `accounts`, `sales`, i `transactions`, aby przedstawić informacje takie jak:
+Dashboard korzysta z różnorodnych źródeł danych, w tym z tabel `accounts`, `sales`, i `transactions`, aby przy pomocy miar (DAX) przedstawić informacje takie jak:
 - Przychody (całkowite, według produktu, agenta sprzedaży, biura regionalnego)
 - Liczba wygranych i przegranych transakcji
 - Średni czas sprzedaży na agenta
@@ -23,8 +23,15 @@ Dashboard korzysta z różnorodnych źródeł danych, w tym z tabel `accounts`, 
 
 Dashboard został zaprojektowany, aby być intuicyjnym i łatwym w użyciu, z interaktywnymi funkcjami, które pozwalają użytkownikom na filtrowanie danych według określonych parametrów, takich jak przedział czasowy, region, produkt czy agent sprzedaży.
 
+
+## Model Danych
+
+![image](https://github.com/korniaczexx/TechCompany-Sales-Report/assets/118902920/2b4c5f77-cc37-4870-9362-41ab06727e15)
+
+
+
 ## Podgląd
+Podgląd dostępny w pliku PDF
 Pełna wersja dostępna w pliku o rozszerzeniu .pbix
 
-![image](https://github.com/korniaczexx/TechCompany-Sales-Report/assets/118902920/89cba21e-e457-488b-970c-522d2e32a202)
 
