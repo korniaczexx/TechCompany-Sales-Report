@@ -31,7 +31,7 @@ Dashboard został zaprojektowany, aby być intuicyjnym i łatwym w użyciu, z in
 
 
 ## Podgląd
-Podgląd dostępny w pliku PDF
-Pełna wersja dostępna w pliku o rozszerzeniu .pbix
+- Podgląd dostępny w pliku PDF
+- Pełna, interaktywna wersja dostępna w pliku o rozszerzeniu .pbix
 
 
